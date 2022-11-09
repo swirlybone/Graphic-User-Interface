@@ -1,0 +1,11 @@
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\bin\Debug\ProgramAssign2.exe.config
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\bin\Debug\ProgramAssign2.exe
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\bin\Debug\ProgramAssign2.pdb
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\bin\Debug\ProgramAssign2.xml
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\obj\Debug\ProgramAssign2.vbprojAssemblyReference.cache
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\obj\Debug\ProgramAssign2.frmSales.resources
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\obj\Debug\ProgramAssign2.Resources.resources
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\obj\Debug\ProgramAssign2.vbproj.GenerateResource.cache
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\obj\Debug\ProgramAssign2.exe
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\obj\Debug\ProgramAssign2.xml
+C:\Users\MemeTrey\Desktop\ProgramAssign2\ProgramAssign2\obj\Debug\ProgramAssign2.pdb

@@ -1,0 +1,22 @@
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe.config
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.pdb
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.xml
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbprojAssemblyReference.cache
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.frmFitness.resources
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.Resources.resources
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.GenerateResource.cache
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.exe
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.xml
+C:\Users\MemeTrey\source\repos\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.pdb
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe.config
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.pdb
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.xml
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbprojAssemblyReference.cache
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.frmFitness.resources
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.Resources.resources
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.GenerateResource.cache
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.exe
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.xml
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.pdb

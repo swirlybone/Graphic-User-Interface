@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MostPopGamesSold", "MostPopGamesSold\MostPopGamesSold.vbproj", "{BB48E6D2-F982-4F38-91A2-B72FECD5C29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB48E6D2-F982-4F38-91A2-B72FECD5C29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB48E6D2-F982-4F38-91A2-B72FECD5C29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB48E6D2-F982-4F38-91A2-B72FECD5C29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB48E6D2-F982-4F38-91A2-B72FECD5C29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD501DB-0B5C-4010-BCA5-EB82B7D5AF56}
+	EndGlobalSection
+EndGlobal

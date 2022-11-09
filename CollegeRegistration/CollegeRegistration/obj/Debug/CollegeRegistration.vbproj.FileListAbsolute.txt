@@ -1,0 +1,11 @@
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.exe.config
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.exe
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.pdb
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.xml
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.vbprojAssemblyReference.cache
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.frmCollege.resources
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.Resources.resources
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.vbproj.GenerateResource.cache
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.exe
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.xml
+C:\Users\MemeTrey\Desktop\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.pdb

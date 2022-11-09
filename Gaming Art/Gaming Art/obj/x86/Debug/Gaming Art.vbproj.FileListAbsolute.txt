@@ -1,0 +1,22 @@
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\bin\x86\Debug\Gaming Art.exe.config
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\bin\x86\Debug\Gaming Art.exe
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\bin\x86\Debug\Gaming Art.pdb
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\bin\x86\Debug\Gaming Art.xml
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.vbprojAssemblyReference.cache
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\obj\x86\Debug\Gaming_Art.frmArt.resources
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\obj\x86\Debug\Gaming_Art.Resources.resources
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.vbproj.GenerateResource.cache
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.exe
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.xml
+C:\Users\MemeTrey\Desktop\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.pdb
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\bin\x86\Debug\Gaming Art.exe.config
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\bin\x86\Debug\Gaming Art.exe
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\bin\x86\Debug\Gaming Art.pdb
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\bin\x86\Debug\Gaming Art.xml
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.vbprojAssemblyReference.cache
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\obj\x86\Debug\Gaming_Art.frmArt.resources
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\obj\x86\Debug\Gaming_Art.Resources.resources
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.vbproj.GenerateResource.cache
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.exe
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.xml
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Gaming Art\Gaming Art\obj\x86\Debug\Gaming Art.pdb

@@ -1,0 +1,67 @@
+Ms. Sonya Boadu;Staff;CCT 233B;507-8079
+Ms. Peggy Bennett;Staff;CCT 224;507-8151
+Ms. Kate Hargrove;Staff;CCT 233A;507-8186
+Ms. Deidre Tilley ;Staff;CCT 232A;507-8158
+Ms. Aurelia Smith;Computer Science;CCT 423;507-8188
+Mrs. Sherri Nagamatsu;Staff;CCT 439;507-8179
+Mrs. Jennifer Stone;Staff;CCT 224;507-8599
+Mrs. Hillary Fleenor;Computer Science;CCT 435;507-8197
+Mrs. Dianne Phillips;Staff;CCT 453;507-8170
+Mrs. Danielle Roper;Staff;CCT 352;507-8150
+Mrs. Brynn Dillon;Staff;CCT 225;507-8152
+Mr. Sean Russell;Staff;CCT 232B;507-8157
+Mr. Russell Spears GRA;Staff;CCT 351;507-8669
+Mr. Ronald Self;Management and Marketing;CCT 334;507-8598
+Mr. Phil Cook;Accounting and Finance;CCT 330;507-8167
+Mr. Michael Anselm;Staff;CCT 352E;507-8668
+Mr. Hunter Peak;Staff;CCT 230;507-8165
+Mr. Bob Kinnett;Management and Marketing;CCT 336;507-8051
+Dr. Yoon Lee;Management and Marketing;CCT 432;507-8065
+Dr. Yesem Peker;Computer Science;CCT 422;507-8187
+Dr. Wen Shi;Accounting and Finance;CCT 324;507-8155
+Dr. Wayne Summers;Administrators;CCT 455;507-8193
+Dr. Vladimir Zanev;Computer Science;CCT 442;507-8183
+Dr. Uma Sridharan;Administrators;CCT 352;507-8192
+Dr. Tesa Leonce;Accounting and Finance;CCT 327;507-8164
+Dr. Sungwoo Jung;Management and Marketing;CCT 326;507-8163
+Dr. Sumanth Yenduri;Computer Science;CCT 433;507-8596
+Dr. Suk Jin Lee;Computer Science;CCT 443;507-8172
+Dr. Shuangboa Wang;Computer Science;CCT 441;507-8183
+Dr. Shamim Khan;Computer Science;CCT 444;507-8184
+Dr. Rodrigo Obando;Computer Science;CCT 426;507-8185
+Dr. Robin Snipes;Management and Marketing;CCT 342;507-8067
+Dr. Rania Hodhod;Computer Science;CCT 454;507-8181
+Dr. Radhouane Chouchane;Computer Science;CCT 430;507-8175
+Dr. Phil Bryant;Management and Marketing;CCT 341;507-8066
+Dr. Perry Kahai;Management and Marketing;CCT 431;507-8176
+Dr. Neal Thomson;Management and Marketing;CCT344;507-8156
+Dr. Neal Rogers;Computer Science;CCT 425;507-8171
+Dr. Mark James;Management and Marketing;CCT 332;507-8166
+Dr. Lydia Ray;Computer Science;CCT 429;507-8174
+Dr. Lixin Wang;Computer Science;CCT 434;507-8190
+Dr. Linda Hadley;Dean;CCT 226;507-8153
+Dr. Laurence Marsh;Management and Marketing;CCT 339;507-8177
+Dr. Kirk Heriot;Management and Marketing;CCT 346;507-8078
+Dr. Kevin Hurt;Management and Marketing;CCT 345;507-8064
+Dr. Jong Ha;Management and Marketing;CCT 340;507-8161
+Dr. Johnny Ho;Management and Marketing;CCT 343;507-8087
+Dr. John Finley;Administrators;CCT 352;507-8169
+Dr. Jianhua Yang ;Computer Science;CCT 440;507-8180
+Dr. Jennifer Pitts;Management and Marketing;CCT 427;507-8162
+Dr. Jasmine Bordere;Accounting and Finance;CCT 333;507-8597
+Dr. James Coleman;Management and Marketing;CCT 328;507-8154
+Dr. Jack Goldfrank ;Executive in Residence;CCT 338;507-8178
+Dr. Gisung Moon ;Accounting and Finance;CCT 322;507-8159
+Dr. Frank Mixon;Accounting and Finance;CCT 337;507-8052
+Dr. Fonda Carter;Administrators;CCT 231;507-8077
+Dr. Ed O'Donnell;Management and Marketing;CCT 335;507-8050
+Dr. Carl Gabrini;Accounting and Finance;CCT 331;507-8168
+Dr. Brett Cotten;Accounting and Finance;CCT 325;507-8315
+Dr. Benjamin Blair;Accounting and Finance;CCT 351;507-8173
+Dr. Andres Jauregui;Accounting and Finance;CCT 352;507-8049
+Dr. Alfredo Perez;Computer Science;CCT 424;507-8194
+Dr. Alan Tidwell;Accounting and Finance;CCT 323;507-8160
+Dr. Adam Maiga;Accounting and Finance;CCT 329;507-8088
+
+Dr. Kirby;Support ;Davidson 254;737-7373
+Professor Mario;Accounting;Schuster 130;345-4532

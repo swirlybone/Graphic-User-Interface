@@ -1,0 +1,11 @@
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\bin\Debug\Asign1Latte.exe.config
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\bin\Debug\Asign1Latte.exe
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\bin\Debug\Asign1Latte.pdb
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\bin\Debug\Asign1Latte.xml
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\obj\Debug\Asign1Latte.vbprojAssemblyReference.cache
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\obj\Debug\Asign1Latte.frmLatteSelection.resources
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\obj\Debug\Asign1Latte.Resources.resources
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\obj\Debug\Asign1Latte.vbproj.GenerateResource.cache
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\obj\Debug\Asign1Latte.exe
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\obj\Debug\Asign1Latte.xml
+C:\Users\MemeTrey\Desktop\2019-20\GUI\Asign1Latte\Asign1Latte\obj\Debug\Asign1Latte.pdb
